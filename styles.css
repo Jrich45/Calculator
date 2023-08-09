@@ -1,0 +1,183 @@
+.first-row {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    
+}
+.second-row {
+    display: flex;
+    justify-content: center;
+
+}
+
+.third-row {
+    display: flex;
+    justify-content: center;
+}
+
+.fourth-row {
+    display: flex;
+    justify-content: center;
+}
+.screen {
+    display: flex;
+    justify-content: center;
+    border: 5px solid black;
+    
+}
+
+
+.one {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+
+}
+
+.two {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+
+}
+
+.three {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.subtract {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+
+} 
+
+.four {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.five {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.six {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.multiply {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.seven {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+
+}
+.eight {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.nine {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.divide {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.zero {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+
+.period {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.equal {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
+.addition {
+    width: 50px;
+    height: 50px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+}
