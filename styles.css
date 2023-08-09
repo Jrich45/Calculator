@@ -181,3 +181,7 @@
     align-items: center;
     background-color: gray;
 }
+
+body {
+    background-color: black;
+}
