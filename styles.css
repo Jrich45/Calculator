@@ -1,7 +1,7 @@
 .first-row {
     display: flex;
     justify-content: center;
-    margin-top: 250px;
+    margin-top: 0px;
     
 }
 .second-row {
@@ -184,4 +184,21 @@
 
 body {
     background-color: black;
+}
+.display {
+    background-color: white;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+.zero-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+    margin-left: 45px;
+
 }
